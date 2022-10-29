@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Python**
 
-- 💬 Ask me about **react, node, typescript, SQL, NoSQL**
+- 💬 Ask me about anything 
 
 - 📫 How to reach me **fabionicolaujr@gmail.com**
 
