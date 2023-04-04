@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabionicolau&label=Profile%20views&color=0e75b6&style=flat" alt="fabionicolau" /> </p>
 
-- 🌱 I’m currently learning **Computer Science and Python**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about anything 
 
