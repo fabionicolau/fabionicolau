@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabionicolau&label=Profile%20views&color=0e75b6&style=flat" alt="fabionicolau" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
+- 🔭 I’m currently working as a Mobile Developer at **Cogny** 😁
+  
+- 🌱 I’m currently working with **React Native**
+  
 - 💬 Ask me about anything 
 
 - 📫 How to reach me **fabionicolaujr@gmail.com**
