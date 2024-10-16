@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Mobile Developer at **Cogny** 😁
   
-- 🌱 I’m currently working with **React Native**
+- 🌱 I’m currently working with **React** and **React Native**
   
 - 💬 Ask me about anything 
 
