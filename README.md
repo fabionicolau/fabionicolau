@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabionicolau&label=Profile%20views&color=0e75b6&style=flat" alt="fabionicolau" /> </p>
 
-- 🔭 I’m currently working as a Mobile Developer at **Cogny** 😁
+- 🔭 I’m currently working as a Web/Mobile Developer at **Cogny** 😁
   
 - 🌱 I’m currently working with **React** and **React Native**
   
